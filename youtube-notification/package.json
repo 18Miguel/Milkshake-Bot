@@ -1,0 +1,15 @@
+{
+  "name": "youtube-notification",
+  "version": "1.1.0",
+  "description": "YouTube Notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.12.0",
+    "node-localstorage": "^2.2.1"
+  }
+}

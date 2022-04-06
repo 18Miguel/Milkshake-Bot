@@ -1,0 +1,84 @@
+{
+	"clientID": "",
+	"guildID": "",
+	"Token": "",
+	"ProfileImage": "https://image.freepik.com/free-vector/cute-milkshake-with-cherry-cartoon_138676-2978.jpg",
+	"Color": "0x8F81C4",
+	"Version": "4.0",
+	"Update": "April 2022",
+
+	"TwitterClientID": "",
+	"TwitterClientSecret": "",
+	"TwitterConsumerKey": "",
+	"TwitterConsumerSecret": "",
+	"TwitterAccessTokenKey": "",
+	"TwitterAccessTokenSecret": "",
+
+	"_comment1": "[0] PlayVALORANT, [1] NintendoAmerica, [2] NintendoEurope, [3] IGN, [?] Every3Minutes[2899773086]",
+	"TwitterFollowing": [
+		"1230550898616586242",
+		"5162861",
+		"493980491",
+		"18927441"
+	],
+
+	"_comment2": "[0] VALORANT, [1] Nintendo, [2] IGN",
+	"YouTubeChannelID": [
+		"UC8CX0LD98EDXl4UYX1MDCXg",
+		"UCGIY_O-8vW4rfX98KlMkvRg",
+		"UCKy1dAqELo0zrOtPkf0eTMw"
+	],
+
+	"_comment3": "[0] ARRIVALS, [1] OTHER-GAMES, [2] NINTENDO, [3] BirthdayChannel, [5] BOT-SPAM, [6] LOG, [7] Admin",
+	"ChannelsToPost": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+
+	"SnowflakesRole": "",
+
+	"AboutYouChannel": "",
+
+	"_comment4": "[0] PC, [1] Nintendo, [2] XBOX, [3] Playstation",
+	"PlatformRoles": [
+		"",
+		"",
+		"",
+		""
+	],
+	"PlatformEmoji": [
+		"",
+		"",
+		"",
+		""
+	],
+
+	"ColorRoles": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+
+	"ColorEmoji": [
+		"💗",
+		"🤍",
+		"🖤",
+		"💜",
+		"💙",
+		"💚",
+		"💛",
+		"🧡",
+		"❤️"
+	]
+}
