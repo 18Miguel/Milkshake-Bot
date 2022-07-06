@@ -19,11 +19,11 @@ Notification.on('video', video => {
 });
 ```
 ## Methods
-### Notifier.addChannels()
+### Notification.addChannels()
 | Parameter | Type | Returns |
 | --- | --- | --- |
 | channels | array | Promise |
-### Notifier.removeChannels()
+### Notification.removeChannels()
 | Parameter | Type | Returns |
 | --- | --- | --- |
 | channels | array | Promise |
